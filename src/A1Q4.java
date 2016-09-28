@@ -49,7 +49,5 @@ public class A1Q4 {
         trump.turnLeft();
         trump.move();
         obama.move();
-        
-        
     }
 }

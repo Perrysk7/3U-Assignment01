@@ -77,7 +77,6 @@ public class A1Q3 {
         obama.turnLeft();
         obama.move();
         obama.move();
-        obama.turnLeft();
-        
+        obama.turnLeft();      
     }
 }
