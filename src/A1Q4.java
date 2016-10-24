@@ -48,8 +48,6 @@ public class A1Q4 {
         obama.turnLeft();
         trump.turnLeft();
         trump.move();
-        obama.move();
-        
-        
+        obama.move();    
     }
 }
